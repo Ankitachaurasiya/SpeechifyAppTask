@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpeechifyAppTask</string>
+
+    <string name="error_timeout">Network Error</string>
+    <string name="error_server">Server Unresponsive</string>
+    <string name="error_network">Network Unresponsive</string>
+    <string name="error_parser">Server Error</string>
+    <string name="error_internet">No Internet Connection</string>
+</resources>
